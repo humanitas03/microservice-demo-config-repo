@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:15555/userdb
+    username: '{cipher}6e92db83af4583ece7924695693cf3a2d49378136a19a2c155c583a839c8323b'
+    password: '{cipher}fd9df4101fae9a49d3fb50815d45c8659a8f0616ef755d8372d987512bb966f8'
+    driver-class-name: org.postgresql.Driver
